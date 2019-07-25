@@ -5,7 +5,7 @@
         <p class="title">Users</p>
         <p>This page is CLUD Sample.</p>
         <br />
-        <user-edit />
+        <user-edit mode="update" />
       </div>
     </div>
   </div>
